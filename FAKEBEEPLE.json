@@ -1,0 +1,12 @@
+{
+    "success":true,
+    "asset":"FAKEBEEPLE",
+    "asset_issuer_address":"1F8tpGn5UVbYUKYoBgQ6FNcHkxAGUdPPN",
+    "asset_owner_address":"1F8tpGn5UVbYUKYoBgQ6FNcHkxAGUdPPN",
+    "asset_supply":"150",
+    "asset_divisible":false,
+    "asset_locked":true,
+    "image":"https://i.imgur.com/yAZYXNS.png",
+    "image_large":"https://i.imgur.com/XOcdyqs.png",
+    "image_title":"FAKEBEEPLE"
+}
