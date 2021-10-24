@@ -1,9 +1,1 @@
-{
-  "asset":"XDPTWEET",
-  "asset_issuer_address":"DPddUhhhKUEognmktHpV9RivSEC3eDgzXE",
-  "asset_owner_address":"DPddUhhhKUEognmktHpV9RivSEC3eDgzXE",
-  "asset_supply":"1000",
-  "asset_divisible":false,
-  "asset_locked":false,
-  "description":"<iframe src=\"https:\/\/twitframe.com\/show?url=https:\/\/twitter.com\/theDogeparty\/status\/491121523483107328?s=20\" style=\"border:0px #ffffff none;\" name=\"myiFrame\" scrolling=\"no\" frameborder=\"1\" marginheight=\"0px\" marginwidth=\"0px\" height=\"400px\" width=\"600px\" allowfullscreen><\/iframe>"
-}
+{"success":true,"asset":"FIRSTXDPTWEET","asset_issuer_address":"1F8tpGn5UVbYUKYoBgQ6FNcHkxAGUdPPN","asset_owner_address":"1F8tpGn5UVbYUKYoBgQ6FNcHkxAGUdPPN","asset_supply":"1","asset_divisible":false,"asset_locked":false,"description":"<iframe src=\"https:\/\/twitframe.com\/show?url=https:\/\/twitter.com\/theDogeparty\/status\/491121523483107328?s=20\" style=\"border:0px #ffffff none;\" name=\"myiFrame\" scrolling=\"no\" frameborder=\"1\" marginheight=\"0px\" marginwidth=\"0px\" height=\"400px\" width=\"600px\" allowfullscreen><\/iframe>","website":"","pgpsig":"","category":"Company, Organization or Institution","subcategory":"Chemicals","category_custom":"","name":"Test JSON Token","contact_address_line_1":"","contact_address_line_2":"","contact_city":"","contact_state_province":"","contact_country":"","contact_postal_code":"","contact_phone":"","contact_fax":"","contact_email1":"","contact_email2":"","website_alternate1":"","website_alternate2":"","website_social_facebook":"","website_social_twitter":"","website_social_linkedin":"","website_social_github":"","website_social_reddit":"","website_social_googleplus":""}
