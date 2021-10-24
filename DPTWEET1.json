@@ -1,23 +1,19 @@
 {
 
-  "asset": "MADABOUTYOU",
+  "asset": "FIRSTXDPTWEET",
 
-  "description": "I'm mad, mad mad mad this madness is mad mad mad... <br> <br> embrace the darkness <br> miracles in a melody <br> faint sparks of hope",
+  "description": "<iframe src="https://twitframe.com/show?url=https://twitter.com/theDogeparty/status/491121523483107328?s=20" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="400px" width="600px" allowfullscreen></iframe>",
 
-  "image": "https://i.imgur.com/DJlV6FQ.png",
+  "image_title": "@theDogeparty 1st Tweet - 8:24 AM . Jul 21, 2014",
 
-  "image_large": "https://i.imgur.com/dccAVIz.gif",
-
-  "image_title": "MAD ABOUT YOU",
-
-  "website": "mohini.neocities.org",
-
-  "category": "Rabbit Hole",
-
-  "subcategory": "Mindspace",
-
-  "project": "OoakosiMo",
-
-  "name": "MAD ABOUT YOU"
+  "asset_issuer_address":"DPddUhhhKUEognmktHpV9RivSEC3eDgzXE",
+  
+  "asset_owner_address":"DPddUhhhKUEognmktHpV9RivSEC3eDgzXE",
+  
+  "asset_supply":"100",
+  
+  "asset_divisible":false,
+  
+  "asset_locked":false
 
 }
