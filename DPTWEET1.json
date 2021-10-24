@@ -1,8 +1,8 @@
 {
-  "asset":"FIRSTXDPTWEET",
+  "asset":"XDPTWEET",
   "asset_issuer_address":"DPddUhhhKUEognmktHpV9RivSEC3eDgzXE",
   "asset_owner_address":"DPddUhhhKUEognmktHpV9RivSEC3eDgzXE",
-  "asset_supply":"100",
+  "asset_supply":"1000",
   "asset_divisible":false,
   "asset_locked":false,
   "description":"<iframe src=\"https:\/\/twitframe.com\/show?url=https:\/\/twitter.com\/theDogeparty\/status\/491121523483107328?s=20\" style=\"border:0px #ffffff none;\" name=\"myiFrame\" scrolling=\"no\" frameborder=\"1\" marginheight=\"0px\" marginwidth=\"0px\" height=\"400px\" width=\"600px\" allowfullscreen><\/iframe>"
